@@ -1,0 +1,7 @@
+#bg-img{
+    background-image: url("https://www.superprof.com.br/blog/wp-content/uploads/2019/06/escrevendo-no-mac.jpg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+  }

@@ -1,0 +1,11 @@
+#img-bg {
+  background-image: url("https://c.pxhere.com/photos/23/ea/apple_black_and_white_camera_coder_coffee_computer_cup_desk-928093.jpg!d");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.alinhamento {
+  margin: auto 0;
+}
